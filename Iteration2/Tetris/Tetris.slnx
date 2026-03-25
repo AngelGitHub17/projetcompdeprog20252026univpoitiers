@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="InterfaceTetris/InterfaceTetris.csproj" />
+  <Project Path="NoyauTetris/NoyauTetris.csproj" />
+  <Project Path="TestTetris/TestTetris.csproj" />
+</Solution>

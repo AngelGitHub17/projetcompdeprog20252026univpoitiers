@@ -1,0 +1,11 @@
+G:\Dossier - UNIVERSITE\Complément-de-Prog - S2\Projet\Iteration0\Tetris\NoyauTetris\bin\Release\net10.0\NoyauTetris.deps.json
+G:\Dossier - UNIVERSITE\Complément-de-Prog - S2\Projet\Iteration0\Tetris\NoyauTetris\bin\Release\net10.0\NoyauTetris.dll
+G:\Dossier - UNIVERSITE\Complément-de-Prog - S2\Projet\Iteration0\Tetris\NoyauTetris\bin\Release\net10.0\NoyauTetris.pdb
+G:\Dossier - UNIVERSITE\Complément-de-Prog - S2\Projet\Iteration0\Tetris\NoyauTetris\obj\Release\net10.0\NoyauTetris.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dossier - UNIVERSITE\Complément-de-Prog - S2\Projet\Iteration0\Tetris\NoyauTetris\obj\Release\net10.0\NoyauTetris.AssemblyInfoInputs.cache
+G:\Dossier - UNIVERSITE\Complément-de-Prog - S2\Projet\Iteration0\Tetris\NoyauTetris\obj\Release\net10.0\NoyauTetris.AssemblyInfo.cs
+G:\Dossier - UNIVERSITE\Complément-de-Prog - S2\Projet\Iteration0\Tetris\NoyauTetris\obj\Release\net10.0\NoyauTetris.csproj.CoreCompileInputs.cache
+G:\Dossier - UNIVERSITE\Complément-de-Prog - S2\Projet\Iteration0\Tetris\NoyauTetris\obj\Release\net10.0\NoyauTetris.dll
+G:\Dossier - UNIVERSITE\Complément-de-Prog - S2\Projet\Iteration0\Tetris\NoyauTetris\obj\Release\net10.0\refint\NoyauTetris.dll
+G:\Dossier - UNIVERSITE\Complément-de-Prog - S2\Projet\Iteration0\Tetris\NoyauTetris\obj\Release\net10.0\NoyauTetris.pdb
+G:\Dossier - UNIVERSITE\Complément-de-Prog - S2\Projet\Iteration0\Tetris\NoyauTetris\obj\Release\net10.0\ref\NoyauTetris.dll

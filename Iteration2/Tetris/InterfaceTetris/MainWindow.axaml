@@ -1,0 +1,16 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InterfaceTetris"
+        x:Class="InterfaceTetris.MainWindow"
+        Title="Tetris">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Spacing="16">
+            <TextBlock Name="InfoText" FontSize="20" HorizontalAlignment="Center" Text="Zone de texte"/>
+            <Canvas Name="TetrisCanvas" Background="#222"/>
+            <Button Name="StartButton" Content="Démarrer" />
+            <Button Name="QuitButton" Content="Quitter" />
+        </StackPanel>
+    </Grid>
+</Window>
