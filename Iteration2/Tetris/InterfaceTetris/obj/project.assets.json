@@ -1391,11 +1391,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Dossier - UNIVERSITE\\Complément-de-Prog - S2\\Projet\\projetcompdeprog20252026univpoitiers\\Iteration2\\Tetris\\InterfaceTetris\\InterfaceTetris.csproj",
+      "projectUniqueName": "G:\\Dossier - UNIVERSITE\\Complément-de-Prog - S2\\Projet\\projetcompdeprog20252026univpoitiers\\Iteration2\\Tetris\\InterfaceTetris\\InterfaceTetris.csproj",
       "projectName": "InterfaceTetris",
-      "projectPath": "F:\\Dossier - UNIVERSITE\\Complément-de-Prog - S2\\Projet\\projetcompdeprog20252026univpoitiers\\Iteration2\\Tetris\\InterfaceTetris\\InterfaceTetris.csproj",
+      "projectPath": "G:\\Dossier - UNIVERSITE\\Complément-de-Prog - S2\\Projet\\projetcompdeprog20252026univpoitiers\\Iteration2\\Tetris\\InterfaceTetris\\InterfaceTetris.csproj",
       "packagesPath": "C:\\DevCaches\\nuget_packages",
-      "outputPath": "F:\\Dossier - UNIVERSITE\\Complément-de-Prog - S2\\Projet\\projetcompdeprog20252026univpoitiers\\Iteration2\\Tetris\\InterfaceTetris\\obj\\",
+      "outputPath": "G:\\Dossier - UNIVERSITE\\Complément-de-Prog - S2\\Projet\\projetcompdeprog20252026univpoitiers\\Iteration2\\Tetris\\InterfaceTetris\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1417,8 +1417,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "F:\\Dossier - UNIVERSITE\\Complément-de-Prog - S2\\Projet\\projetcompdeprog20252026univpoitiers\\Iteration2\\Tetris\\NoyauTetris\\NoyauTetris.csproj": {
-              "projectPath": "F:\\Dossier - UNIVERSITE\\Complément-de-Prog - S2\\Projet\\projetcompdeprog20252026univpoitiers\\Iteration2\\Tetris\\NoyauTetris\\NoyauTetris.csproj"
+            "G:\\Dossier - UNIVERSITE\\Complément-de-Prog - S2\\Projet\\projetcompdeprog20252026univpoitiers\\Iteration2\\Tetris\\NoyauTetris\\NoyauTetris.csproj": {
+              "projectPath": "G:\\Dossier - UNIVERSITE\\Complément-de-Prog - S2\\Projet\\projetcompdeprog20252026univpoitiers\\Iteration2\\Tetris\\NoyauTetris\\NoyauTetris.csproj"
             }
           }
         }

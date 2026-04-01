@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Dossier - UNIVERSITE\\Complément-de-Prog - S2\\Projet\\projetcompdeprog20252026univpoitiers\\Iteration2\\Tetris\\NoyauTetris\\NoyauTetris.csproj",
+      "projectUniqueName": "G:\\Dossier - UNIVERSITE\\Complément-de-Prog - S2\\Projet\\projetcompdeprog20252026univpoitiers\\Iteration2\\Tetris\\NoyauTetris\\NoyauTetris.csproj",
       "projectName": "NoyauTetris",
-      "projectPath": "F:\\Dossier - UNIVERSITE\\Complément-de-Prog - S2\\Projet\\projetcompdeprog20252026univpoitiers\\Iteration2\\Tetris\\NoyauTetris\\NoyauTetris.csproj",
+      "projectPath": "G:\\Dossier - UNIVERSITE\\Complément-de-Prog - S2\\Projet\\projetcompdeprog20252026univpoitiers\\Iteration2\\Tetris\\NoyauTetris\\NoyauTetris.csproj",
       "packagesPath": "C:\\DevCaches\\nuget_packages",
-      "outputPath": "F:\\Dossier - UNIVERSITE\\Complément-de-Prog - S2\\Projet\\projetcompdeprog20252026univpoitiers\\Iteration2\\Tetris\\NoyauTetris\\obj\\",
+      "outputPath": "G:\\Dossier - UNIVERSITE\\Complément-de-Prog - S2\\Projet\\projetcompdeprog20252026univpoitiers\\Iteration2\\Tetris\\NoyauTetris\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

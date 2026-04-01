@@ -22,3 +22,15 @@ F:\Dossier - UNIVERSITE\Complément-de-Prog - S2\Projet\projetcompdeprog20252026
 F:\Dossier - UNIVERSITE\Complément-de-Prog - S2\Projet\projetcompdeprog20252026univpoitiers\Iteration2\Tetris\NoyauTetris\bin\Debug\net10.0\NoyauTetris.dll
 F:\Dossier - UNIVERSITE\Complément-de-Prog - S2\Projet\projetcompdeprog20252026univpoitiers\Iteration2\Tetris\NoyauTetris\bin\Debug\net10.0\NoyauTetris.pdb
 F:\Dossier - UNIVERSITE\Complément-de-Prog - S2\Projet\projetcompdeprog20252026univpoitiers\Iteration2\Tetris\NoyauTetris\obj\Debug\net10.0\ref\NoyauTetris.dll
+G:\Dossier - UNIVERSITE\Complément-de-Prog - S2\Projet\projetcompdeprog20252026univpoitiers\Iteration2\Tetris\NoyauTetris\bin\Debug\net10.0\NoyauTetris.deps.json
+G:\Dossier - UNIVERSITE\Complément-de-Prog - S2\Projet\projetcompdeprog20252026univpoitiers\Iteration2\Tetris\NoyauTetris\bin\Debug\net10.0\NoyauTetris.dll
+G:\Dossier - UNIVERSITE\Complément-de-Prog - S2\Projet\projetcompdeprog20252026univpoitiers\Iteration2\Tetris\NoyauTetris\bin\Debug\net10.0\NoyauTetris.pdb
+G:\Dossier - UNIVERSITE\Complément-de-Prog - S2\Projet\projetcompdeprog20252026univpoitiers\Iteration2\Tetris\NoyauTetris\obj\Debug\net10.0\NoyauTetris.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dossier - UNIVERSITE\Complément-de-Prog - S2\Projet\projetcompdeprog20252026univpoitiers\Iteration2\Tetris\NoyauTetris\obj\Debug\net10.0\NoyauTetris.AssemblyInfoInputs.cache
+G:\Dossier - UNIVERSITE\Complément-de-Prog - S2\Projet\projetcompdeprog20252026univpoitiers\Iteration2\Tetris\NoyauTetris\obj\Debug\net10.0\NoyauTetris.AssemblyInfo.cs
+G:\Dossier - UNIVERSITE\Complément-de-Prog - S2\Projet\projetcompdeprog20252026univpoitiers\Iteration2\Tetris\NoyauTetris\obj\Debug\net10.0\NoyauTetris.csproj.CoreCompileInputs.cache
+G:\Dossier - UNIVERSITE\Complément-de-Prog - S2\Projet\projetcompdeprog20252026univpoitiers\Iteration2\Tetris\NoyauTetris\obj\Debug\net10.0\NoyauTetris.sourcelink.json
+G:\Dossier - UNIVERSITE\Complément-de-Prog - S2\Projet\projetcompdeprog20252026univpoitiers\Iteration2\Tetris\NoyauTetris\obj\Debug\net10.0\NoyauTetris.dll
+G:\Dossier - UNIVERSITE\Complément-de-Prog - S2\Projet\projetcompdeprog20252026univpoitiers\Iteration2\Tetris\NoyauTetris\obj\Debug\net10.0\refint\NoyauTetris.dll
+G:\Dossier - UNIVERSITE\Complément-de-Prog - S2\Projet\projetcompdeprog20252026univpoitiers\Iteration2\Tetris\NoyauTetris\obj\Debug\net10.0\NoyauTetris.pdb
+G:\Dossier - UNIVERSITE\Complément-de-Prog - S2\Projet\projetcompdeprog20252026univpoitiers\Iteration2\Tetris\NoyauTetris\obj\Debug\net10.0\ref\NoyauTetris.dll
