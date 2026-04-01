@@ -21,9 +21,14 @@ public partial class MainWindow : Window
     /* Minuteur qui déclanche régulièrement un évènement. */
     public DispatcherTimer Minuteur;
     
+    /* Instance du jeu Tetris. */
+    public JeuTetris JeuTetris;
+    
     public MainWindow()
     {
         InitializeComponent();
+        // Initialise une instance du jeu Tetris
+        JeuTetris = new JeuTetris();
         // Défini la taille de la fenêtre à partir des constantes
         Width = 300;
         Height = 600;
@@ -105,6 +110,8 @@ public partial class MainWindow : Window
         DessinerRectangle(10, 0, 10, 10, Avalonia.Media.Brushes.Pink);
         DessinerRectangle(20, 10, 10, 10, Avalonia.Media.Brushes.Purple);
         DessinerRectangle(30, 20, 10, 10, Avalonia.Media.Brushes.Blue);
+        this.JeuTetris.Demarrer();
+        Minuteur.Start();
     }
 
     /*Cette fonction permet de déplacer le tétrominos à droite*/
